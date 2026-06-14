@@ -7,7 +7,7 @@ initramfs:
 
 extensions:
   avocado-bsp-jetson-agx-thor-devkit:
-    version: 2024.1.0
+    version: 0.1.0
     release: r0
     summary: Board support for the Nvidia Jetson AGX Thor devkit
     description: Board support for the Nvidia Jetson AGX Thor devkit
